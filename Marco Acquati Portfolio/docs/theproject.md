@@ -18,7 +18,7 @@ Since it's not clear the time required to complete the degradation process, I st
 <img src="/img/soilExperiment1.jpg" alt="Experiment with soil 1" width="400"/>
 <img src="/img/soilExperiment2.jpg" alt="Experiment with soil 2" width="400"/>
 
-*Pictures of the ongoing experiment in soild, day 1*
+*Pictures of the ongoing experiment in soil, day 1*
 
 While the experiment goes on by itself (I guess it would require at least 3 or 4 weeks to see some noticeable degradation) I decided to exploit the aforementioned property of the material designing a little bucket that birds can use as a structure to build their nests on.Unfortunately, I think I'll have to wait till april or may to try to place the first prototype on a tree since, according to my researches, birds don't usually build their nests during winter.
 
