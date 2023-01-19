@@ -1,5 +1,5 @@
 ---
-slug: /firstweek
+slug: /theproject
 ---
 
 # The Project
@@ -12,6 +12,9 @@ One of the characteristics of the material that I really wanted to explore is it
 Since it's not clear the time required to complete the degradation process, I started running some experiments placing pieces of different thickness (and printed with different temperatures) in a glass of water exposed to sunlight and some other pieces with the same characteristics buried under muddy ground.
 
 //place experiments pictures here
+<img src="/img/waterExperiment.jpg" alt="Experiment with water" width="400"/>
+
+*Picture of the ongoing experiment in water, day 1*
 
 While the experiment goes on by itself (I guess it would require at least 3 or 4 weeks to see some noticeable degradation) I decided to exploit the aforementioned property of the material designing a little bucket that birds can use as a structure to build their nests on.Unfortunately, I think I'll have to wait till april or may to try to place the first prototype on a tree since, according to my researches, birds don't usually build their nests during winter.
 
@@ -25,13 +28,14 @@ I decided to design the whole prototype using Tinkercad® since I have previous 
 
 **The design**
 
-The first design featured an A and an M as shown in the next image:
+The first design featured an A and an M linkable as shown in the next image:
 
-//place first design pictures here
+<img src="/img/firstDesign.png" alt="First design" width="400"/>
 
 As soon as I tried to place the pieces as I imagined them it was clear that this design of the A left a big hole in the center of the circle, so I proceeded with the successive iteration of the design solving the issue and adding a second linking hole making the whole structure stronger.
 
-//Place second design pictures here
+<img src="/img/AFirstDesignCircle.png" alt="First design circle" width="400"/>
+<img src="/img/ASecondDesignCircle.png" alt="First design circle" width="310"/>
 
 **First prints and experiments with temperature and thickness** 
 
@@ -44,18 +48,35 @@ Unfortunately the print suffered a severe warping and I was forced to stop it at
 
  I still have to understand the right settings to fix the warping problems but it seems like, overall, this road is the right one.
 
-//Place here prints at 200°C
+<img src="/img/temperatureExperiment1.jpg" alt="Temperature experiment 1" width="400"/>
 
-I tried with 190, 180 and bla bla
+I tried with 190, 185 and 180, the results are visible in the images below:
 
-//Images
+<img src="/img/temperatureExperiment.jpg" alt="Temperature experiment" width="400"/> 
+<img src="/img/temperatureExperiment2.jpg" alt="Temperature experiment" width="400"/> 
+<img src="/img/temperatureExperiment3.jpg" alt="Temperature experiment" width="400"/>
+
+I was pretty happy with this first phase of the prototyping process, the link demonstrated to be perfectly dimensioned and very reliable.
+
+In the following pictures you can see the structure of the lower part of the bucket assembled:
+
+<img src="/img/jointsAlignment.jpg" alt="Joints alignment" width="400"/>
+<img src="/img/jointsAlignment2.jpg" alt="Joints alignment" width="400"/>
+
+After messing up with the printed pieces I noticed that the A design could be improved making it "reversible" in order to create different structures when linked:
+
+<img src="/img/structureWithJoints.jpg" alt="First structure joints in" width="400"/>
+<img src="/img/structureWithJointsOut.jpg" alt="First structure joints out" width="400"/>
 
 **Plans for 2nd week**
 
-Improve the "A" design to make it "reversable"
+Improve the "A" design to make it "reversible"
 # 2nd week
 
 **Design updates**
+As planned, I updated the design of the letter "A" to be reversible, the new design is visible below:
+
+<img src="/img/AThirdDesign.png" alt="A third design" width="400"/>
 
 **Print updates** 
 
