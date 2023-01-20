@@ -28,7 +28,7 @@ The design of the modules is composed of the initial letters of my name: M and A
 
 ### The software
 
-I decided to design the whole prototype using Tinkercad® since I've had previous experiences with this software. Moreover the project has to be completed in only seven weeks, so I thought it was a wise idea to focus more on the printing process rather than on learning a new tool to design the pieces. 
+I decided to design the whole prototype using Tinkercad® since I've had previous experiences with this software. Moreover the project has to be completed in only seven weeks, so I thought it was a wise idea to focus more on the printing process rather than on learning a new tool to design the models. 
 
 # 1st week
 
@@ -67,13 +67,13 @@ I was pretty happy with this first phase of the prototyping process, the link de
 
 In the following pictures you can see the structure of the lower part of the bucket assembled:
 
-<img src="/img/jointsAlignment.jpg" alt="Joints alignment" width="400"/>
-<img src="/img/jointsAlignment2.jpg" alt="Joints alignment" width="400"/>
+<img src="/img/structureWithJoints.jpg" alt="First structure joints in" width="400"/>
+<img src="/img/structureWithJointsOut.jpg" alt="First structure joints out" width="400"/>
 
 After messing up with the printed pieces I noticed that the A design could be improved making it "reversible" in order to create different structures when linked:
 
-<img src="/img/structureWithJoints.jpg" alt="First structure joints in" width="400"/>
-<img src="/img/structureWithJointsOut.jpg" alt="First structure joints out" width="400"/>
+<img src="/img/jointsAlignment.jpg" alt="Joints alignment" width="400"/>
+<img src="/img/jointsAlignment2.jpg" alt="Joints alignment" width="400"/>
 
 **Plans for 2nd week**
 
