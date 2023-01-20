@@ -28,7 +28,7 @@ The design of the modules is composed of the initial letters of my name: M and A
 
 ### The software
 
-I decided to design the whole prototype using Tinkercad® since I had previous experiences with this software. Moreover the project has to be completed in only seven weeks, so I thought it was a wise idea to focus more on the printing process rather than on learning a new tool to design the pieces. 
+I decided to design the whole prototype using Tinkercad® since I've had previous experiences with this software. Moreover the project has to be completed in only seven weeks, so I thought it was a wise idea to focus more on the printing process rather than on learning a new tool to design the pieces. 
 
 # 1st week
 
