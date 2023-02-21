@@ -131,6 +131,10 @@ I placed the pieces under a tre that was easily recognisable since I didn't want
 Unfortunately that tree was chopped too and I lost the reference to the pieces position :(
 I hope I'll have more time in the next few days to go and search for them again.
 
+Regarding the experiment in water, I don't register any noticeable degradation. the pieces are as stiff as the first day. The thing that I noticed is a "whiteish" patina on the glass that is most probably caused by the limestone contained in the tap water, but at the moment I can't exclude to be a super tiny layer of plastic lost by the printed pieces.
+
+<img src="/img/waterExperimentUpdate.jpeg" alt="Water experiment update" width="400"/>
+
 # 6th week
 
 **Design updates**
