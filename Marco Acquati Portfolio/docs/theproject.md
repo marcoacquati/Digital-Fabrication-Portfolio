@@ -153,4 +153,4 @@ These are the designs that I plan to present to show the flexibility, adaptabili
 
 <img src="/img/planarDesign.jpeg" alt="A reversed" width="400"/>
 
-<img src="/img/finishedNest.jpeg" alt="Final nest" width="400"/>
+<img src="/img/finishedNest.jpg" alt="Final nest" width="400"/>
